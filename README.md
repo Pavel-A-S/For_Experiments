@@ -1,8 +1,6 @@
 # For_Experiments
 Just for tests and nothing more.
 
-
-
 # Funny Way
 This is simple social network which I've created as my first mini-project with
 Ruby on Rails.
@@ -25,9 +23,26 @@ The mini-social network includes below features:
   before saving it in album.
 
 ## Technology behind "Funny way"
-
 - Ruby, Ruby on Rails
 - Html, CSS/SCSS
 - JavaScript, Ajax
 - MiniMagick, Unicorn, Rails ERD, Rubocop
 - Tests
+
+## How to use
+The "Funny way" comes with the pre-filled default database. If you want to look
+at project just make follow steps:
+
+- Copy project on your desktop
+- Prepare it as usual
+- Install all missing programs like ImageMagick, Sendmail, Gems, etc.
+- All should work out of the box.
+
+To get access use next credentials:
+login: Admin@funnyway.ru
+password: 12345678
+
+login: Pavel@funnyway.ru
+password: 12345678
+
+P.S. In case of any problem you can write me at Pavel.A.S.1985@gmail.com
