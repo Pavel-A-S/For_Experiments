@@ -39,6 +39,7 @@ at project just make follow steps:
 - All should work out of the box.
 
 To get access use next credentials:
+
 login: Admin@funnyway.ru
 password: 12345678
 
