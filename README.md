@@ -14,7 +14,7 @@ The mini-social network includes below features:
 
 - Authentication and authorization system, which was developed from scratch.
 - Mailers. They are used for sending authentication and reset-password tokens.
-- Guest book with personal information.
+- Guest book with information about people.
 - General chat where all members can share they thought.
 - Photo galleries. Every member can create they own Photo gallery and manage it.
 - Comments. People can leave messages under any photo.
@@ -24,13 +24,13 @@ The mini-social network includes below features:
 
 ## Technology behind "Funny way"
 - Ruby, Ruby on Rails
-- Html, CSS/SCSS
+- HTML, CSS/SCSS
 - JavaScript, Ajax
 - MiniMagick, Unicorn, Rails ERD, Rubocop
 - Tests
 
 ## How to use
-The "Funny way" comes with the pre-filled default database. If you want to look
+The "Funny way" comes with a pre-filled default database. If you want to look
 at project just make follow steps:
 
 - Copy project on your desktop
@@ -40,11 +40,9 @@ at project just make follow steps:
 
 To get access use next credentials:
 
-login: Admin@funnyway.ru
-password: 12345678
+login: Admin@funnyway.ru, password: 12345678
 
-login: Pavel@funnyway.ru
-password: 12345678
+login: Pavel@funnyway.ru, password: 12345678
 
 P.S. In case of any problem you can write me at Pavel.A.S.1985@gmail.com
 
@@ -65,22 +63,22 @@ admin).
 - Ability to create navigation menu with categories and subcategories
 - Basket for chosen goods.
 - Search system.
-- System for traking orders state and history.
+- System for tracking orders state and history.
 - Client base with personal information.
-- Ability to change main page depending on reqirements
+- Ability to change main page depending on requirements
 - Ability to manage the shop and it's parts depending on privileges.
 - Ability to change language.
 - Google Map
 
 ## Technology behind "Easy Shop"
 - Ruby, Ruby on Rails
-- Bootstrap, Html, CSS/SCSS
+- Bootstrap, HTML, CSS/SCSS
 - JavaScript
 - MiniMagick, Rails ERD, Rubocop, Devise, Carrierwave
-- Rspec
+- RSpec
 
 ## How to use
-The "Easy Shop" comes with the pre-filled default database. If you want to look
+The "Easy Shop" comes with a pre-filled default database. If you want to look
 at project just make follow steps:
 
 - Copy project on your desktop
@@ -88,25 +86,12 @@ at project just make follow steps:
 - Install all missing programs like ImageMagick, Sendmail, Gems, etc.
 - All should work out of the box.
 
-### To get access use next credentials
-As admin:
+To get access use next credentials:
 
-login: pavel.a.s.1985@gmail.com,
+As admin - login: pavel.a.s.1985@gmail.com, password: 12345678
 
-password: 12345678
+As manager - login: manager@funnyway.ru, password: 12345678
 
-
-As manager:
-
-login: manager@funnyway.ru,
-
-password: 12345678
-
-
-As customer:
-
-login: customer@funnyway.ru,
-
-password: 12345678
+As customer - login: customer@funnyway.ru, password: 12345678
 
 P.S. In case of any problem you can write me at Pavel.A.S.1985@gmail.com
